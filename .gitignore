@@ -1,0 +1,12 @@
+# node
+node_modules
+
+# HLS生成物
+backend/hls
+
+# 動画
+backend/videos
+
+# OS
+.DS_Store
+Thumbs.db
