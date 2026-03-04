@@ -5,7 +5,6 @@ A minimal video streaming service built with HLS and adaptive bitrate.
 ## Features
 
 - HLS streaming
-- Adaptive bitrate (360p / 720p / 1080p)
 - FFmpeg transcoding
 - Vue video player
 - Docker environment
@@ -22,3 +21,7 @@ A minimal video streaming service built with HLS and adaptive bitrate.
 
 ```bash
 docker compose up --build
+```
+
+## Next
+- Adaptive bitrate (360p / 720p / 1080p)
